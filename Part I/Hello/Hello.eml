@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="algs4.jar" scope="COMPILE">
+		<srcroot url="jar://$MODULE_DIR$/src/algs4.jar!/"/>
+		<relative-module-src project-related="jar://$PROJECT_DIR$/src/algs4.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/src/algs4.jar!/"/>
+	</lib>
+</component>
